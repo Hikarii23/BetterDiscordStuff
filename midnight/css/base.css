@@ -2433,6 +2433,7 @@ html.theme-light body.bd-minimal #app-mount::before {
     height: calc(100% + var(--bulk));
 	padding-bottom: calc(20px + var(--bulk));
 	position:relative;
+	padding-top: 145px !important;
 }
 
 .membersWrap-2h-GB4 {
